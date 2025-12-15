@@ -1,0 +1,27 @@
+Majorana1/
+├─ README.md
+├─ docs/
+│  ├─ vision_descanso.md
+│  ├─ metodologia.md
+│  ├─ bibliografia_resumida.md
+│  └─ cartografia_diversidad.md
+├─ capsules/
+│  ├─ protocolo_descanso_diario.md
+│  ├─ protocolo_descanso_semanal.md
+│  ├─ capsule_editorial_ciencia_descanso.md
+│  └─ capsule_musica_sueño.md
+├─ tables/
+│  ├─ comparativa_rutinas.md
+│  ├─ matriz_metricas_descanso.md
+│  └─ mapa_correlaciones_descanso_creatividad.md
+├─ biografias/
+│  ├─ liderazgo_femenino_descanso_tech.md
+│  └─ djs_cartografia_descanso_energias.md
+├─ scripts/
+│  ├─ checklist_diario.md
+│  ├─ guia_sesiones_sincronizacion.md
+│  └─ plantilla_reporte_semanal.md
+├─ data/
+│  ├─ templates_registro.csv
+│  └─ ejemplos_registro.csv
+└─ CHANGELOG.md
