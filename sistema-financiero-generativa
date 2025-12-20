@@ -18,3 +18,13 @@ LICENSE
 https://app.binance.com/uni-qr/cpro/Square-Creator-2a64827ffe64?l=es&r=SJ62MFUZ&uc=web_square_share_link&us=copylink
 Binance Blockchain Week. día 1 https://app.binance.com/uni-qr/cspa/32812202883657?l=es&r=UCIPZ4L0&uc=web_square_share_link&us=copylink
 Binance Blockchain Week. día 2 https://www.binance.com/es/square/audio/replay?id=32812213876354
+def fibonacci(n):
+   # Lista para almacenar la secuencia
+   fib_sequence = [0, 1]
+   # Generar los números de Fibonacci hasta n
+   for i in range(2, n):
+       fib_sequence.append(fib_sequence[i-1] + fib_sequence[i-2])
+   return fib_sequence
+# Ejemplo: Generar los primeros 10 números de Fibonacci
+n = 10
+print(fibonacci(n))
