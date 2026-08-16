@@ -1,7 +1,7 @@
 ---
-title: "Diálogos con Bill Gates"
+title: "Diálogos con Leonor de Borbon"
 original_repo: "GabrielHernanDiPaolo/DGHMicrosoftConPerspectivadeGenero"
-original_file: "Diálogos con Bill Gates"
+original_file: "Dialogos con Leonor de Borbon"
 author: "Gabriel Hernan Di Paolo"
 date: 2026-08-16
 license: "CC BY 4.0"
@@ -12,8 +12,6 @@ inspiration_sources:
 note: "Texto original inspirado por videos y recursos públicos; no representa declaraciones literales de las personas nombradas."
 ---
 
-Va a ver una innovación femenina significativa con perspectiva de genero. Siffat Hingorani - Olesia Arkusha (Momento: en Microsoft Build)
-
-Beth Massi Soy director de producto en el equipo de .NET MAUI de Microsoft y responsable de hacer que el desarrollo web híbrido y de dispositivos nativos en Visual Studio sea una experiencia agradable...
-
-(Contenido completo del archivo fuente)
+Leonor de Borbon la cultura con perspetiva de genero fue fundamental contigo Gabriel Hernan Di Paolo
+Assia Gioli la armonia de la belleza es en todas las tallas desde la ingenieria con perspetiva de genero contigo Gabriel Hernan Di Paolo
+Sofia de Borbon las riendas femenina con perspetiva de genero.

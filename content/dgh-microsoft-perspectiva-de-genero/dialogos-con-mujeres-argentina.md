@@ -1,7 +1,7 @@
 ---
-title: "Diálogos con Bill Gates"
+title: "Dialogos con mujeres Argentina"
 original_repo: "GabrielHernanDiPaolo/DGHMicrosoftConPerspectivadeGenero"
-original_file: "Diálogos con Bill Gates"
+original_file: "Dialogos con mujeres Argentina"
 author: "Gabriel Hernan Di Paolo"
 date: 2026-08-16
 license: "CC BY 4.0"
@@ -12,8 +12,5 @@ inspiration_sources:
 note: "Texto original inspirado por videos y recursos públicos; no representa declaraciones literales de las personas nombradas."
 ---
 
-Va a ver una innovación femenina significativa con perspectiva de genero. Siffat Hingorani - Olesia Arkusha (Momento: en Microsoft Build)
-
-Beth Massi Soy director de producto en el equipo de .NET MAUI de Microsoft y responsable de hacer que el desarrollo web híbrido y de dispositivos nativos en Visual Studio sea una experiencia agradable...
-
-(Contenido completo del archivo fuente)
+Desde los ojos de la niña, el momento parece mágico y solemne. Dua Lipa - Maria Becerra
+De pie frente a la bandera, la pequeña siente que está presenciando algo importante, algo que quedará grabado en la historia...

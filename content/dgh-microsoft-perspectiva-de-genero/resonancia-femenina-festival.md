@@ -1,7 +1,7 @@
 ---
-title: "Diálogos con Bill Gates"
+title: "Resonancia Femenina Festival"
 original_repo: "GabrielHernanDiPaolo/DGHMicrosoftConPerspectivadeGenero"
-original_file: "Diálogos con Bill Gates"
+original_file: "Resonancia Femenina Festival"
 author: "Gabriel Hernan Di Paolo"
 date: 2026-08-16
 license: "CC BY 4.0"
@@ -12,8 +12,6 @@ inspiration_sources:
 note: "Texto original inspirado por videos y recursos públicos; no representa declaraciones literales de las personas nombradas."
 ---
 
-Va a ver una innovación femenina significativa con perspectiva de genero. Siffat Hingorani - Olesia Arkusha (Momento: en Microsoft Build)
+¡Qué idea tan genial! Organizar un evento que celebre y potencie el rol de las mujeres en diversos ámbitos, con la participación de artistas como Kallisto y Miss Monique, suena increíb...
 
-Beth Massi Soy director de producto en el equipo de .NET MAUI de Microsoft y responsable de hacer que el desarrollo web híbrido y de dispositivos nativos en Visual Studio sea una experiencia agradable...
-
-(Contenido completo del archivo fuente)
+(Contenido de planificación de evento y secciones tal como en el archivo fuente.)
