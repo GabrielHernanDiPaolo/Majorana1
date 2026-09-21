@@ -20,6 +20,7 @@
 ## 🔗 Referencias
 - [Microsoft Build 2026](https://build.microsoft.com/en-US/home)
 - [Recursos audiovisuales](https://youtu.be/_zl4yIOnh-M?si=ouTjJjY8Jhoo1rJP)
+-Microsoft opens state-of-the-art Quantum Lab in Lyngby, Denmark, accelerating progress toward scalable quantum computing - Source EMEA https://share.google/83ytUsCgeW8gEz1F7
 
 ## 📜 Licencia
 Este proyecto se distribuye bajo licencia [Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](LICENSE.md)
