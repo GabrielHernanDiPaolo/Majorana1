@@ -8,6 +8,12 @@
 - Documentación sobre innovación tecnológica, digital y humana
 - Perspectiva de género integrada en todos los procesos
 
+## 🔄 Actualizaciones relevantes
+- [Majorana 2 — Microsoft Discovery Agentic AI](content/majorana-2-microsoft-discovery-agentic-ai/README.md)
+- Relación entre Majorana 1 y la evolución de la computación cuántica
+- Departamento de Procesamiento de Datos en la Secretaría de Computación Cuántica
+- Ejes transversales de InnoApps Librería: educación, Economía/Finanzas y salud
+
 ## 🎯 Secretarías del Ecosistema
 - **Secretaría General**: coordinación transversal y documentación institucional
 - **Secretaría de Inteligencia Artificial**: programación, análisis y expansión de funciones
@@ -20,6 +26,7 @@
 ## 🔗 Referencias
 - [Microsoft Build 2026](https://build.microsoft.com/en-US/home)
 - [Recursos audiovisuales](https://youtu.be/_zl4yIOnh-M?si=ouTjJjY8Jhoo1rJP)
+- [Majorana 2 — Microsoft Discovery Agentic AI](content/majorana-2-microsoft-discovery-agentic-ai/README.md)
 - Microsoft opens state-of-the-art Quantum Lab in Lyngby, Denmark, accelerating progress toward scalable quantum computing - Source EMEA https://share.google/83ytUsCgeW8gEz1F7
 
 ## 📜 Licencia
@@ -27,4 +34,4 @@ Este proyecto se distribuye bajo licencia [Creative Commons Atribución 4.0 Inte
 
 ---
 
-*Última actualización: 2026-08-04*
+*Última actualización: 2026-10-22*
